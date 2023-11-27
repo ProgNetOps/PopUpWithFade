@@ -1,0 +1,44 @@
+C:\Users\Seyi\Desktop\PopUpWithFade\PopUpWithFade\bin\Debug\PopUpWithFade.exe.config
+C:\Users\Seyi\Desktop\PopUpWithFade\PopUpWithFade\bin\Debug\PopUpWithFade.exe
+C:\Users\Seyi\Desktop\PopUpWithFade\PopUpWithFade\bin\Debug\PopUpWithFade.pdb
+C:\Users\Seyi\Desktop\PopUpWithFade\PopUpWithFade\obj\Debug\PopUpWithFade.Form1.resources
+C:\Users\Seyi\Desktop\PopUpWithFade\PopUpWithFade\obj\Debug\PopUpWithFade.PopForm.resources
+C:\Users\Seyi\Desktop\PopUpWithFade\PopUpWithFade\obj\Debug\PopUpWithFade.Properties.Resources.resources
+C:\Users\Seyi\Desktop\PopUpWithFade\PopUpWithFade\obj\Debug\PopUpWithFade.csproj.GenerateResource.cache
+C:\Users\Seyi\Desktop\PopUpWithFade\PopUpWithFade\obj\Debug\PopUpWithFade.csproj.CoreCompileInputs.cache
+C:\Users\Seyi\Desktop\PopUpWithFade\PopUpWithFade\obj\Debug\PopUpWithFade.exe
+C:\Users\Seyi\Desktop\PopUpWithFade\PopUpWithFade\obj\Debug\PopUpWithFade.pdb
+C:\Users\Seyi\Desktop\PopUpWithFade\PopUpWithFade\obj\Debug\PopUpWithFade.csprojAssemblyReference.cache
+C:\Users\Seyi\Documents\PORTFOLIO\DESKTOP\PopUpWithFade\PopUpWithFade\bin\Debug\PopUpWithFade.exe.config
+C:\Users\Seyi\Documents\PORTFOLIO\DESKTOP\PopUpWithFade\PopUpWithFade\bin\Debug\PopUpWithFade.exe
+C:\Users\Seyi\Documents\PORTFOLIO\DESKTOP\PopUpWithFade\PopUpWithFade\bin\Debug\PopUpWithFade.pdb
+C:\Users\Seyi\Documents\PORTFOLIO\DESKTOP\PopUpWithFade\PopUpWithFade\obj\Debug\PopUpWithFade.csprojAssemblyReference.cache
+C:\Users\Seyi\Documents\PORTFOLIO\DESKTOP\PopUpWithFade\PopUpWithFade\obj\Debug\PopUpWithFade.Form1.resources
+C:\Users\Seyi\Documents\PORTFOLIO\DESKTOP\PopUpWithFade\PopUpWithFade\obj\Debug\PopUpWithFade.PopForm.resources
+C:\Users\Seyi\Documents\PORTFOLIO\DESKTOP\PopUpWithFade\PopUpWithFade\obj\Debug\PopUpWithFade.Properties.Resources.resources
+C:\Users\Seyi\Documents\PORTFOLIO\DESKTOP\PopUpWithFade\PopUpWithFade\obj\Debug\PopUpWithFade.csproj.GenerateResource.cache
+C:\Users\Seyi\Documents\PORTFOLIO\DESKTOP\PopUpWithFade\PopUpWithFade\obj\Debug\PopUpWithFade.csproj.CoreCompileInputs.cache
+C:\Users\Seyi\Documents\PORTFOLIO\DESKTOP\PopUpWithFade\PopUpWithFade\obj\Debug\PopUpWithFade.exe
+C:\Users\Seyi\Documents\PORTFOLIO\DESKTOP\PopUpWithFade\PopUpWithFade\obj\Debug\PopUpWithFade.pdb
+G:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\PopUpWithFade\PopUpWithFade\bin\Debug\PopUpWithFade.exe.config
+G:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\PopUpWithFade\PopUpWithFade\bin\Debug\PopUpWithFade.exe
+G:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\PopUpWithFade\PopUpWithFade\bin\Debug\PopUpWithFade.pdb
+G:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\PopUpWithFade\PopUpWithFade\obj\Debug\PopUpWithFade.csproj.AssemblyReference.cache
+G:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\PopUpWithFade\PopUpWithFade\obj\Debug\PopUpWithFade.Form1.resources
+G:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\PopUpWithFade\PopUpWithFade\obj\Debug\PopUpWithFade.PopForm.resources
+G:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\PopUpWithFade\PopUpWithFade\obj\Debug\PopUpWithFade.Properties.Resources.resources
+G:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\PopUpWithFade\PopUpWithFade\obj\Debug\PopUpWithFade.csproj.GenerateResource.cache
+G:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\PopUpWithFade\PopUpWithFade\obj\Debug\PopUpWithFade.csproj.CoreCompileInputs.cache
+G:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\PopUpWithFade\PopUpWithFade\obj\Debug\PopUpWithFade.exe
+G:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\PopUpWithFade\PopUpWithFade\obj\Debug\PopUpWithFade.pdb
+D:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\PopUpWithFade\PopUpWithFade\bin\Debug\PopUpWithFade.exe.config
+D:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\PopUpWithFade\PopUpWithFade\bin\Debug\PopUpWithFade.exe
+D:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\PopUpWithFade\PopUpWithFade\bin\Debug\PopUpWithFade.pdb
+D:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\PopUpWithFade\PopUpWithFade\obj\Debug\PopUpWithFade.csproj.AssemblyReference.cache
+D:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\PopUpWithFade\PopUpWithFade\obj\Debug\PopUpWithFade.Form1.resources
+D:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\PopUpWithFade\PopUpWithFade\obj\Debug\PopUpWithFade.PopForm.resources
+D:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\PopUpWithFade\PopUpWithFade\obj\Debug\PopUpWithFade.Properties.Resources.resources
+D:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\PopUpWithFade\PopUpWithFade\obj\Debug\PopUpWithFade.csproj.GenerateResource.cache
+D:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\PopUpWithFade\PopUpWithFade\obj\Debug\PopUpWithFade.csproj.CoreCompileInputs.cache
+D:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\PopUpWithFade\PopUpWithFade\obj\Debug\PopUpWithFade.exe
+D:\-----NOC PROJECT BACKUP-----\PORTFOLIO\DESKTOP\PopUpWithFade\PopUpWithFade\obj\Debug\PopUpWithFade.pdb
